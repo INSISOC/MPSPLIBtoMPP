@@ -20,7 +20,7 @@ This repository accompanies the article:
   If you use this repository or its contents in your research, please consider citing the article once published.
 ## 🧩 Source of Original Instances
 The original problem instances were obtained from the MPSPLib (http://www.mpsplib.com/), developed by **Jörg Homberger**.  
-These have been converted into `.mpp` format for compatibility with Microsoft Project.
+These have been converted into `.mpp` format for compatibility with Microsoft Project. Instance names respect the original source.
 ### 📖 Citation
 If you use these instances in your research, please also cite the original source:  
 - Homberger, J. (2007). *A multi-agent system for the decentralised resource-constrained multi-project scheduling problem*. International Transactions in Operational Research, 14(6), 565–589.
