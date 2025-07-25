@@ -1,5 +1,5 @@
 # MPSPLIBtoMPP - MS Project format Instances for the Multi-Project Scheduling Problem
-This repository contains a collection of test instances for the Multi-Project Scheduling Problem (MPSP),  originally from the MPSPLib library (http://www.mpsplib.com), and converted into Microsoft Project (`.mpp`) format. 
+This repository contains a collection of test instances for the Multi-Project Scheduling Problem (MPSP),  originally from the MPSPLib library (http://www.mpsplib.com), and converted into Microsoft Project™ (`.mpp`) format. 
 These instances are intended to support reproducibility and benchmarking in scientific research related to multi-project scheduling and optimisation.
 ## 📂 Contents
 - `instances/`: Directory containing the `.mpp` files for each test instance.
