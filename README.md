@@ -8,6 +8,8 @@ These instances are intended to support reproducibility and benchmarking in scie
 - `MPSPLIBtoMPP Instances/`: Directory containing the `.mpp` files for each test instance.
 - `README.md`: This file.
 - `LICENSE.md`: Licensing information for the converted instances.
+## Download in one link
+Download the entire library from a single link **[here](https://github.com/INSISOC/MPSPLIBtoMPP/archive/refs/heads/main.zip)**
 ## 🎯 Purpose
 The aim of this repository is to provide the research community with a ready-to-use library of MPSP instances in `.mpp` format, facilitating:
 - Reproducibility of experimental results.
