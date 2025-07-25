@@ -6,16 +6,13 @@ These instances are intended to support reproducibility and benchmarking in scie
 <sub> <sup>1</sup> Microsoft Project™ is a registered trademark of Microsoft Corporation. This repository and its contents are not affiliated with, endorsed by, or sponsored by Microsoft Corporation.</sub>
 ## 📂 Contents
 - `instances/`: Directory containing the `.mpp` files for each test instance.
-- `vba_macros`: Directory containing  the module ".bas" and "exportedUI" to install the VBA macros and custom ribbon interface in a local Microsoft Project environment
-- `macro_installation_guide.md `: Guide explaining how to install the provided VBA macros and custom ribbon interface.
 - `README.md`: This file.
 - `LICENSE.md`: Licensing information for the converted instances.
-- `LICENSE_ADDIN.md`: Licensing information for the use of the module ".bas" and "exportedUI" containing the VBA macros with rescheduling algorithm
 ## 🎯 Purpose
 The aim of this repository is to provide the research community with a ready-to-use library of MPSP instances in `.mpp` format, facilitating:
 - Reproducibility of experimental results.
 - Comparative evaluation of scheduling algorithms.
-- Integration with commercial project management tools.
+- Integration with the commercial project management tool MS Project.
 ## 📄 Publication
 This repository accompanies the article:  
 - Poza, D. J. et alt. _Benchmarking Multi-Project Scheduling – Commercial Software vs. Academic Algorithms_. Journal of Project Management*, Issue 55 (* forthcoming).
