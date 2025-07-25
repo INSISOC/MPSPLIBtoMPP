@@ -5,7 +5,7 @@ These instances are intended to support reproducibility and benchmarking in scie
 
 <sub> <sup>1</sup> Microsoft® Project is a registered trademark of Microsoft Corporation. This repository and its contents are not affiliated with, endorsed by, or sponsored by Microsoft Corporation.</sub>
 ## 📂 Contents
-- `instances/`: Directory containing the `.mpp` files for each test instance.
+- `MPSPLIBtoMPP Instances/`: Directory containing the `.mpp` files for each test instance.
 - `README.md`: This file.
 - `LICENSE.md`: Licensing information for the converted instances.
 ## 🎯 Purpose
