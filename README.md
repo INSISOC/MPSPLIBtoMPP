@@ -1,0 +1,2 @@
+# MPSPLIBtoMPP
+This repository contains a collection of test instances for the Multi-Project Scheduling Problem (MPSP),  originally from the MPSPLib library, and converted into Microsoft Project (`.mpp`) format. 
