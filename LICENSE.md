@@ -1,8 +1,8 @@
-Creative Commons Attribution 4.0 International Public License
+# Creative Commons Attribution 4.0 International Public License
 
-By exercising the Licensed Rights (defined below), You accept and agree to be bound by the terms and conditions of this Creative Commons Attribution 4.0 International Public License ("Public License").
+By exercising the Licensed Rights (defined below), You accept and agree to be bound by the terms and conditions of this Creative Commons Attribution 4.0 International Public License (CC BY 4.0).
 
-1. Definitions.
+## 1. Definitions.
 
 a. Adapted Material means material subject to Copyright and Similar Rights that is derived from or based upon the Licensed Material and in which the Licensed Material is translated, altered, arranged, transformed, or otherwise modified in a manner requiring permission under the Copyright and Similar Rights held by the Licensor.
 
@@ -28,7 +28,7 @@ k. Sui Generis Database Rights means rights other than copyright resulting from 
 
 l. You means the individual or entity exercising the Licensed Rights under this Public License.
 
-2. Scope.
+## 2. Scope.
 
 a. License grant. Subject to the terms and conditions of this Public License, the Licensor hereby grants You a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to exercise the Licensed Rights in the Licensed Material.
 
@@ -36,7 +36,7 @@ b. Exceptions and Limitations. For the avoidance of doubt, where Exceptions and 
 
 c. Term. The term of this Public License is the duration of the Copyright and Similar Rights licensed here. However, if You fail to comply with this Public License, then Your rights under this Public License terminate automatically.
 
-3. License Conditions.
+## 3. License Conditions.
 
 Your exercise of the Licensed Rights is expressly made subject to the following conditions:
 
@@ -51,29 +51,29 @@ i. If You Share the Licensed Material (including in modified form), You must:
 
 ii. You may satisfy the conditions in any reasonable manner based on the medium, means, and context.
 
-4. Sui Generis Database Rights.
+## 4. Sui Generis Database Rights.
 
 Where the Licensed Rights include Sui Generis Database Rights, the Licensor waives these rights to the extent possible, and otherwise licenses them on the same terms as the copyright.
 
-5. Disclaimer of Warranties and Limitation of Liability.
+## 5. Disclaimer of Warranties and Limitation of Liability.
 
 a. Unless otherwise separately undertaken by the Licensor, to the extent possible, the Licensor offers the Licensed Material as-is and as-available and makes no representations or warranties of any kind.
 
 b. The Licensor shall not be liable to You for any damages arising out of this Public License or the use of the Licensed Material.
 
-6. Termination.
+## 6. Termination.
 
 a. This Public License terminates automatically if You fail to comply with its terms.
 
 b. However, reinstatement is possible if the violation is cured within 30 days of discovery.
 
-7. Other Terms and Conditions.
+## 7. Other Terms and Conditions.
 
 a. The Licensor shall not be bound by any additional or different terms communicated by You.
 
 b. No rights are waived unless expressly waived in writing.
 
-8. Interpretation.
+## 8. Interpretation.
 
 a. If any provision of this Public License is deemed unenforceable, it shall be automatically reformed to the minimum extent necessary.
 
