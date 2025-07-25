@@ -1,7 +1,9 @@
 # MPSPLIBtoMPP - MS Project format Instances for the Multi-Project Scheduling Problem
-This repository contains a collection of test instances for the Multi-Project Scheduling Problem (MPSP),  originally from the MPSPLib library (http://www.mpsplib.com), and converted into Microsoft Project® <sup>1</sup> (`.mpp`) format. 
-These instances are intended to support reproducibility and benchmarking in scientific research related to multi-project scheduling and optimisation.
-  <sup>1</sup> Microsoft Project™ is a registered trademark of Microsoft Corporation. This repository and its contents are not affiliated with, endorsed by, or sponsored by Microsoft Corporation.
+This repository contains a collection of test instances for the Multi-Project Scheduling Problem (MPSP),  originally from the MPSPLib library (http://www.mpsplib.com), and converted into Microsoft Project® <sup>1</sup> (`.mpp`) format.  
+
+These instances are intended to support reproducibility and benchmarking in scientific research related to multi-project scheduling and optimisation.  
+
+<sub> <sup>1</sup> Microsoft Project™ is a registered trademark of Microsoft Corporation. This repository and its contents are not affiliated with, endorsed by, or sponsored by Microsoft Corporation.</sub>
 ## 📂 Contents
 - `instances/`: Directory containing the `.mpp` files for each test instance.
 - `vba_macros`: Directory containing  the module ".bas" and "exportedUI" to install the VBA macros and custom ribbon interface in a local Microsoft Project environment
@@ -15,15 +17,16 @@ The aim of this repository is to provide the research community with a ready-to-
 - Comparative evaluation of scheduling algorithms.
 - Integration with commercial project management tools.
 ## 📄 Publication
-This repository accompanies the article:
-Poza, D. J. et alt. Benchmarking Multi-Project Scheduling – Commercial Software vs. Academic Algorithms. Journal of Project Management*, Issue 55 (forthcoming).
-If you use this repository or its contents in your research, please consider citing the article once published.
+This repository accompanies the article:  
+- Poza, D. J. et alt. _Benchmarking Multi-Project Scheduling – Commercial Software vs. Academic Algorithms_. Journal of Project Management*, Issue 55 (* forthcoming).
+
+  If you use this repository or its contents in your research, please consider citing the article once published.
 ## 🧩 Source of Original Instances
-The original problem instances were obtained from the MPSPLib (http://www.mpsplib.com/), developed by **Jörg Homberger**. 
+The original problem instances were obtained from the MPSPLib (http://www.mpsplib.com/), developed by **Jörg Homberger**.  
 These have been converted into `.mpp` format for compatibility with Microsoft Project.
 ### 📖 Citation
-If you use these instances in your research, please cite the original source:
-Homberger, J. (2007). *A multi-agent system for the decentralised resource-constrained multi-project scheduling problem*. International Transactions in Operational Research, 14(6), 565–589.
+If you use these instances in your research, please also cite the original source:  
+- Homberger, J. (2007). *A multi-agent system for the decentralised resource-constrained multi-project scheduling problem*. International Transactions in Operational Research, 14(6), 565–589.
 ## 📜 Licence
 The converted `.mpp` instances in this repository are released under the **Creative Commons Attribution 4.0 International (CC BY 4.0)**  licence.
 You are free to:
