@@ -17,7 +17,7 @@ The aim of this repository is to provide the research community with a ready-to-
 - Integration with the commercial project management tool MS Project.
 ## Publication
 This repository accompanies the article:  
-- Poza, D., Araújo, A., De Antón, J., & Villafáñez, F. (2025). Resource-Constrained Multi-Project Scheduling: Enhancing Commercial Software with Advanced Heuristics. Expert Systems with Applications (under review).
+- Poza, D., Araújo, A., De Antón, J., & Villafáñez, F. (2025). Embedding a Heuristic Approach into Microsoft Project for Multi-Project Scheduling. Expert Systems with Applications (under review).
 
   If you use this repository or its contents in your research, please consider citing the article once published.
 ## Source of Original Instances
