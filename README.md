@@ -43,3 +43,14 @@ This repository is licensed under the Creative Commons Attribution 4.0 Internati
 This means that the contents may be used for commercial purposes, provided that appropriate credit is given to the original author and any modifications are clearly indicated.
 ## Contact
     For questions or suggestions, please contact: david.poza@uva.es
+ 
+## Version History
+
+### v1.1 (November 2026)
+
+- Replaced corrupted instance file:
+  - 13 mp_j30_a20_nr3.mpp
+
+### v1.0
+
+- Initial public release.
